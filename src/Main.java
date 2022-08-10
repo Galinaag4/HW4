@@ -12,7 +12,8 @@ public class Main {
     for(int p = 5; p<=31; p = p + 7){
     System.out.println("Сегодня пятница."+(p)+"число. Необходимо подготовить отчет");}
     // Задача 3
-        for(var k = 0; k <=2021;k = k + 79){System.out.println(k+79);}
+        for(var k = 1817; k <=2021+100;k = k + 79){System.out.println(k);}
+
 
 
 
